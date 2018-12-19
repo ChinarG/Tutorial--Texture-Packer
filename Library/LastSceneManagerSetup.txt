@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chinar/Scenes/ChinarDemo.unity
+  isLoaded: 1
+  isActive: 1

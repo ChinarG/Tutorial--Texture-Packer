@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:441a518fcdee8b0333f579f2c8afea27:861ac6552d087eedd4ea4140722ae138:3118799fefca9d33d6c38dcb28708683$
+#
+:format=40300
+:texture=Chinar.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Chinar-1;1557;1624;419;423; 0.5;0.5; 0;0;0;0; 4;419;0;0;0;0;423;419;423; 2;1;2;3;0;1;3
+Chinar-2;1128;1350;419;420; 0.5;0.5; 0;0;0;0; 4;419;0;0;0;0;420;419;420; 2;1;2;3;0;1;3
+Chinar1;1;927;1125;1120; 0.5;0.5; 0;0;0;0; 4;1125;0;0;0;0;1120;1125;1120; 2;1;2;3;0;1;3
+Chinar2;1128;1772;427;275; 0.5;0.5; 0;0;0;0; 4;427;0;0;0;0;275;427;275; 2;1;2;3;0;1;3

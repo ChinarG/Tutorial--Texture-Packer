@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Chinar/Resources/Texture/Atlas/Chinar.tpsheet
+textureFileNames:
+- Assets/Chinar/Resources/Texture/Atlas/Chinar.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
