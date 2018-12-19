@@ -14,7 +14,7 @@ Unity3D图集插件-Texture Packer工程教程
 
 
 <center>
-<img src="https://github.com/ChinarG/TUTORIAL--Costume-Change/blob/master/zhutouChinar.jpg?raw=true" width="11%" height="11%" $ $ />
+<img src="https://github.com/ChinarG/TUTORIAL--GitHub/blob/master/Head%20Portrait/Chinar%E9%9D%92%E8%89%B2.png?raw=true" width="11%" height="11%" $ $ />
 </center>
 
 **Chinar**
