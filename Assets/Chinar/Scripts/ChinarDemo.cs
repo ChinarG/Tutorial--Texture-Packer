@@ -23,7 +23,7 @@ public class ChinarDemo : MonoBehaviour
 
     void Start()
     {
-        ResourcesLoadMethod();
+        ResourcesLoadMethod()1;
         AssetBundleLoadMethod();
     }
 

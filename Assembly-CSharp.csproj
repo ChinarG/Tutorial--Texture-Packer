@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Chinar\Scripts\ChinarAtlas.cs" />
     <Compile Include="Assets\Chinar\Scripts\ChinarDemo.cs" />
+    <Compile Include="Assets\QHierarchy\Scripts\QObjectList.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>X:/Git/Unity/Tutorial--Texture-Packer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
